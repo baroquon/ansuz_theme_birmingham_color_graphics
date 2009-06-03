@@ -1,0 +1,384 @@
+home:
+
+
+<!-- URL's used in the movie-->  <!-- text used in the movie-->  <!--Birmingham Color GraphicsT-Shirts & TextilesCommercial PrintingVehicle GraphicsLarge Format PrintingYour one stop for all of your printing needs--><object height="250" width="780" align="" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" id="web4">
+<param name="movie" value="web4.swf" />
+<param name="loop" value="false" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#FFFFFF" /> <embed height="250" width="780" align="" src="/themes/ansuz_theme_birmingham_color_graphics/images/web4.swf" loop="false" quality="high" bgcolor="#FFFFFF" name="web3" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>  </object>
+<div class="mainImg">
+<p><img height="133" width="200" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/30392900TH.jpg" /></p>
+</div>
+<div class="mainText">
+<p>Birmingham Color Graphics is a full service printing facility located in Birmingham Alabama.  The firm was established in &quot;1991&quot; as a service bureau providing high resolution scanning and postscript film to the trade. Today the company has grown to be a place where you can have almost anything printed. Our combination of digital &amp; conventional production equipment, provides you the options needed to produce your  project on time and on budget. Birmingham Color Graphics gives you the convenience of being a single source solution for commercial printing, large format printing, outdoor  printing and apparel printing.The company also provides a full line of finishing options such as coil bindery, mounting, routing and lamination.  The quality control and flexability these services provide keep you competitive in todays color critical and deadline oriented world. </p>
+</div>
+<div class="content footer"> <marquee scrolldelay="150">Birmingham Color Graphics now offers UV Curable Flatbed Digital Printing. Print direct to rigid media up to 50mm (appox. 2&quot;) thick. Materials as large as 5&quot;X10&quot; Print with white ink and six colors at true 1200 DPI Print with brilliant and vibrant colors even on clear and dark colored media. Print with environmentally friendly inks. See the service link for more information. </marquee> </div>
+
+
+Contact Us:
+
+
+<p>If you would like to upload a file, or if you would like a quote or some additional information please <a href="/pages/contact_form">click here</a> and let us know what we can do for you.</p>
+<div class="contactImg"><img src="/themes/ansuz_theme_birmingham_color_graphics/images/contact.png" alt="" /></div>
+<div class="contactText">
+<p>Mark Griffin</p>
+<ol>
+    <li>Birmingham Color Graphics Inc.</li>
+    <li>701 37th Street South</li>
+    <li>Birmingham, AL   35222</li>
+</ol>
+<p> E-mail:</p>
+<ol>
+    <li><a href="mailTo:mark@birminghamcolor.com">mark@birminghamcolor.com</a>  </li>
+</ol>
+<p> </p>
+<p>Work Phone Number:</p>
+<ol>
+    <li>205-252-3026</li>
+</ol>
+<p>Toll Free:</p>
+<ol>
+    <li>866-252-3026</li>
+</ol>
+</div>
+
+
+Directions:
+
+
+<p>Birmingham Color Graphics is located at:</p>
+<ol>
+    <li>701 37TH STREET SOUTH </li>
+    <li> BIRMINGHAM, AL 35222</li>
+</ol>
+<div class="mapBorder"> <iframe height="350" frameborder="0" width="425" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?f=q&amp;hl=en&amp;geocode=&amp;ie=UTF8&amp;s=AARTsJpiJWHk3RZACxivYG8-WETx5S9OCg&amp;msa=0&amp;msid=112559237028243392956.00044815cf462fcce6a47&amp;ll=33.517232,-86.77527&amp;spn=0.006261,0.00912&amp;z=16&amp;output=embed"></iframe></div>
+For Directions from your location <a href="http://maps.google.com/maps/ms?f=q&amp;hl=en&amp;geocode=&amp;ie=UTF8&amp;msa=0&amp;msid=112559237028243392956.00044815cf462fcce6a47&amp;ll=33.516174,-86.77386&amp;spn=0.006834,0.013647&amp;z=16" target="_blank">click here.</a>
+
+
+Gallery:
+
+<h2> Gallery </h2>
+<p> </p>
+<h3>Large Format Printing</h3>
+<div class="galleryCont"><a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/Coins.jpg"><img height="155" width="200" border="0" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/Coins_thumbnail.png" /></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/Vulcan.jpg"><img height="302" width="200" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/Vulcan_thumbnail.png" /> </a><a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/GeorgeForeman.jpg"><img height="299" width="200" border="0" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/GeorgeForemanTH2.JPG" /></a> </div>
+<h3>Commercial Printing</h3>
+<div class="galleryCont"><a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/BarronFanTech.jpg"><img height="159" width="200" border="0" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/BarronFanTech_thumbnail.png" /></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/Brochures2.jpg"><img height="145" width="200" border="0" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/Brochures2_thumbnail.png" /></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/GoldenFlake.jpg"> <img height="234" width="190" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/GoldenFlake_thumbnail.png" /></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/TaladegaHospBro.jpg"> <img height="112" width="200" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/TaladegaHospBro_thumbnail.png" /></a> </div>
+<h3>Vehicle Graphics</h3>
+<div class="galleryCont"><a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/2-GoldenFlake.JPG"><img height="118" width="200" border="0" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/TH2-GoldenFlake.JPG" /></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/2-GoldenFlake.JPG"><img height="132" width="201" border="0" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/TH1-GoldenFlake.JPG" /> </a>  <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/AlabamaCart.png"> <img height="133" width="200" border="0" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/AlabamaCart_thumbnail.png" /></a>  <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/AU-TRUCK-FRONT.png"> <img height="133" width="200" border="0" src="/themes/ansuz_theme_birmingham_color_graphics/images/AU-TRUCK-FRONT_thumbnail.png" alt="" /></a>  <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/IMG_1061.png"> <img height="133" width="200" border="0" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/IMG_1061_thumbnail.png" /></a>  <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/IMG_1064.png"> <img height="133" width="200" border="0" src="/themes/ansuz_theme_birmingham_color_graphics/images/IMG_1064_thumbnail.png" alt="" /></a>   </div>
+<h3>Display Graphics</h3>
+<div class="galleryCont"><a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/2-WellnessCounts.jpg"><img height="133" width="200" border="0" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/2-WellnessCountsTH.jpg" /></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/MissII2.JPG"> <img height="133" width="200" border="0" src="/themes/ansuz_theme_birmingham_color_graphics/images/MissII2TH.JPG" alt="" /></a>   </div>
+<h3>Art Prints and Framing</h3>
+<div class="galleryCont"><a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/WallPort1.jpg"><img height="297" width="200" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/WallPort1_thumbnail.png" /></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/wallPort2.jpg"><img height="311" width="200" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/wallPort2_thumbnail.png" /></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/WallPortraitsall3.jpg"><img height="119" width="201" border="0" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/WallPortraitsall3_thumbnail.png" /></a> <br />
+<a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/1Bear.jpg"> <img height="164" width="200" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/1Bear_thumbnail.png" /></a>   </div>
+<h3>Layout and Design</h3>
+<div class="galleryCont"> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/2ndFF4Poster.jpg"><img height="323" width="221" border="0" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/2ndFF4Poster_thumbnail.png" /></a>  <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/1-TalladegaBrochures.jpg"><img height="133" width="200" border="0" align="top" src="/themes/ansuz_theme_birmingham_color_graphics/images/1-TalladegaBrochures_thumbnail.png" alt="" /></a>   <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/AprilMay2007.jpg"><img height="259" width="200" border="0" align="top" src="/themes/ansuz_theme_birmingham_color_graphics/images/AprilMay2007_thumbnail.png" alt="" /></a> </div>
+<h3>T-Shirts</h3>
+<div class="galleryCont"><a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/Well_Beer.jpg"><img height="140" width="200" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/Well_BeerTH.jpg" /></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/Mountains&amp;Beer.jpg"><img height="140" width="200" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/Mountains_BeerTH.jpg" /></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/Confederate.jpg"><img height="140" width="200" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/ConfederateTH.jpg" /></a> <br />
+<a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/cropedAussieSummer.jpg"><img height="140" width="200" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/cropedAussieSummerTH.jpg" /></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/cropedWell.jpg"><img height="140" width="200" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/cropedWellTH.jpg" /></a> </div>
+
+
+Links:
+
+
+<h2>Links</h2>
+<h3>Here is an excellent site on color theory and all things color. Great information on color as it relates to marketing. <br />
+You can spend hours here:</h3>
+<ol>
+    <li><a target="_blank" href="http://www.colormatters.com/">http://www.colormatters.com/</a></li>
+</ol>
+<h3> The most beautiful colors are found in nature:</h3>
+<ol>
+    <li><a target="_blank" href="http://www.northern-lights.no/english/what/index.shtml">http://www.northern-lights.no/english/what/index.shtml</a></li>
+    <li><a target="_blank" href="http://eo.ucar.edu/rainbows/">http://eo.ucar.edu/rainbows/</a></li>
+</ol>
+<h3>Have some fun with color.<br />
+Check out these great optical illusion sites:</h3>
+<ol>
+    <li><a target="_blank" href="http://www.echalk.co.uk/amusements/OpticalIllusions/illusions.htm">http://www.echalk.co.uk/amusements/OpticalIllusions/illusions.htm</a></li>
+    <li> <a target="_blank" href="http://www.michaelbach.de/ot/">http://www.michaelbach.de/ot/</a></li>
+</ol>
+<h3>Here is an excellent digital printing glossary in pdf format:</h3>
+<ol>
+    <li> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/DigitalPrintingglossary.pdf">Click Here</a> </li>
+</ol>
+<h3>We support the Alabama Wildlife Center with out products and services:</h3>
+<ol>
+    <li> <a target="_blank" href="http://www.awrc.org/">Click Here to learn more</a> </li>
+</ol>
+<p>Here is our Price Guide in pdf format.</p>
+
+
+Real Estate Signs Price List
+
+<p>If you would like additional information on our Real Estate Signs or you would like to place an order please <a href="/pages/real_estate_contact">contact us by clicking here.</a></p>
+<div class="price-list-container">
+<h2>Name Riders (1 Color)</h2>
+<table class="name-riders">
+    <thead>
+        <tr>
+            <th>             Size           </th>
+            <th>             Less Than 8 Dbl. Front           </th>
+            <th>             8 Dbl. Front or 16 Sgl. Front           </th>
+            <th>             15 Dbl. Front or 30 Sgl. Front           </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>             6 x 18           </td>
+            <td>             $7.50 Each           </td>
+            <td>             $36.00           </td>
+            <td>             $75.00           </td>
+        </tr>
+        <tr>
+            <td>             6 x 24           </td>
+            <td>             $7.50 Each           </td>
+            <td>             $36.00           </td>
+            <td>             $75.00           </td>
+        </tr>
+    </tbody>
+</table>
+<h2>Directionals</h2>
+<table>
+    <thead>
+        <tr class="primary-head">
+            <th>             Size           </th>
+            <th>             # Colors           </th>
+            <th>             # Colors           </th>
+        </tr>
+        <tr>
+            <th>             9 x 24, 12 x 18, 12 x 24 &amp; 18 x 18           </th>
+            <th>             1-Color           </th>
+            <th>             2-Color           </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>             1 - 5 Double Fronts           </td>
+            <td>             $7.50 Each           </td>
+            <td>             $9.50 Each           </td>
+        </tr>
+        <tr>
+            <td>             6 - 10 Double Fronts             </td>
+            <td>             $5.80 Each           </td>
+            <td>             $7.05 Each           </td>
+        </tr>
+        <tr>
+            <td>             11 - 25 Double Fronts            </td>
+            <td>             $4.05 Each           </td>
+            <td>             $5.85 each           </td>
+        </tr>
+        <tr>
+            <td>             26 - 50 Double Fronts            </td>
+            <td>             $3.46 Each           </td>
+            <td>             $4.76 Each           </td>
+        </tr>
+    </tbody>
+</table>
+<h2>Yard Signs Size 18 x 24</h2>
+<table>
+    <thead>
+        <tr>
+            <th>             Quantity           </th>
+            <th>             1-Color           </th>
+            <th>             2-Color           </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>             1 - 5 Double Fronts            </td>
+            <td>             $9.85 Each           </td>
+            <td>             $12.35 Each           </td>
+        </tr>
+        <tr>
+            <td>             6  - 10 Double Fronts            </td>
+            <td>             $7.35 Each           </td>
+            <td>             $8.60 Each           </td>
+        </tr>
+        <tr>
+            <td>             11 - 25 Double Fronts            </td>
+            <td>             $5.30 Each           </td>
+            <td>             $6.30 Each           </td>
+        </tr>
+        <tr>
+            <td>             26 - 50 Double Fronts           </td>
+            <td>             $4.90 Each           </td>
+            <td>             $5.60 Each           </td>
+        </tr>
+        <tr>
+            <td>             51 - 100 Double Fronts            </td>
+            <td>             $4.55 Each           </td>
+            <td>             $5.05 Each           </td>
+        </tr>
+    </tbody>
+</table>
+<h2>Yard Signs 24 x 24</h2>
+<table>
+    <thead>
+        <tr>
+            <th>             Quantity           </th>
+            <th>             1-Color           </th>
+            <th>             2-Color           </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>             1 - 5 Double Fronts            </td>
+            <td>             $12.40 Each           </td>
+            <td>             $14.90 Each           </td>
+        </tr>
+        <tr>
+            <td>             6 - 10 Double Fronts            </td>
+            <td>             $8.90 Each           </td>
+            <td>             $10.15 Each           </td>
+        </tr>
+        <tr>
+            <td>             11 - 25 Double Fronts            </td>
+            <td>             $6.65 Each           </td>
+            <td>             $7.65 Each           </td>
+        </tr>
+        <tr>
+            <td>             26 - 50 Double Fronts            </td>
+            <td>             $6.15 Each           </td>
+            <td>             $6.90 Each           </td>
+        </tr>
+        <tr>
+            <td>             51 - 100 Double Fronts            </td>
+            <td>             $5.85 Each           </td>
+            <td>             $6.25 Each           </td>
+        </tr>
+    </tbody>
+</table>
+<h2>Yard Signs Size 20 x 30</h2>
+<table>
+    <thead>
+        <tr>
+            <th>             Quantity           </th>
+            <th>             1-Color           </th>
+            <th>             2-Color           </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>             1 -5 Double Fronts            </td>
+            <td>             $15.92 Each           </td>
+            <td>             $18.82 Each           </td>
+        </tr>
+        <tr>
+            <td>             6 - 10 Double Fronts            </td>
+            <td>             $10.38 Each           </td>
+            <td>             $12.55 Each           </td>
+        </tr>
+        <tr>
+            <td>             11 - 25 Double Fronts            </td>
+            <td>             $9.48 Each           </td>
+            <td>             $10.20 Each           </td>
+        </tr>
+        <tr>
+            <td>             26 - 50 Double Fronts           </td>
+            <td>             $7.37 Each           </td>
+            <td>             $9.42 Each           </td>
+        </tr>
+        <tr>
+            <td>             51 - 100           Double Fronts</td>
+            <td>             $5.85 Each           </td>
+            <td>             $8.26 Each           </td>
+        </tr>
+    </tbody>
+</table>
+<h2>Yard Signs Size 30 x 30</h2>
+<table>
+    <thead>
+        <tr>
+            <th>             Quantity           </th>
+            <th>             1-Color           </th>
+            <th>             2-Color           </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>             1 - 5 Double Fronts            </td>
+            <td>             $19.45 Each           </td>
+            <td>             $22.79 Each           </td>
+        </tr>
+        <tr>
+            <td>             6 - 10 Double Fronts            </td>
+            <td>             $11.86 Each           </td>
+            <td>             $14.95 Each           </td>
+        </tr>
+        <tr>
+            <td>             11 - 25 Double Fronts            </td>
+            <td>             $9.48 Each           </td>
+            <td>             $12.75 Each           </td>
+        </tr>
+        <tr>
+            <td>             26 - 50 Double Fronts            </td>
+            <td>             $8.69 Each           </td>
+            <td>             $11.50 Each           </td>
+        </tr>
+        <tr>
+            <td>           </td>
+            <td>           </td>
+            <td>           </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+Left Side:
+
+<div class="asSeen"><a href="/pages/asSeenOnTv"><img height="53" width="75" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/asSeenOnTV.png" /></a></div>
+
+
+
+As Seen on TV:
+
+
+<h2>As Seen on Tv</h2>
+<p>Check out our Television commercial!</p>
+<div align="center">  <img height="413" width="275" border="0" align="top" src="/themes/ansuz_theme_birmingham_color_graphics/images/2-Jeannie.jpg" alt="" />     <object height="350" width="425">
+<param name="movie" value="http://www.youtube.com/v/4UneMHsw_Kk" />  <embed height="350" width="425" src="http://www.youtube.com/v/4UneMHsw_Kk" type="application/x-shockwave-flash"></embed>  </object>
+<p>It's like MAGIC!</p>
+</div>
+
+Footer:
+
+<p>BIRMINGHAM COLOR GRAPHICS | 205-252-3026  |  701 37TH STREET SOUTH  |  BIRMINGHAM, AL 35222</p>
+
+Services Tab:
+
+
+<div class="serviceTabs" style="border-style: none; overflow: visible; border-bottom-color: rgb(0, 0, 0); height: 314px; z-index: auto;"><div class="subNav"><div class="page_group"><ul id="tab_group_1" class="subsection_tabs"><li class="menu2"><a class="do_not_animate active" href="#tab_page_1">Commercial Printing</a></li><li class="menu2"><a class="do_not_animate" href="#tab_page_2">Banners and Large Format Printing</a></li><li class="menu2"><a class="do_not_animate" href="#tab_page_3">Vehicle Graphics</a></li><li class="menu2"><a class="do_not_animate" href="#tab_page_4">POP Display Graphics and Signs</a></li><li class="menu2"><a class="do_not_animate" href="#tab_page_5">Art Prints and Framing</a></li><li class="menu2"><a class="do_not_animate" href="#tab_page_6">T-Shirts and Textiles</a></li><li class="menu2"><a class="do_not_animate" href="#tab_page_7">Digital Photography / Scanning</a></li><li class="menu2"><a class="do_not_animate" href="#tab_page_8">Labels</a></li><li class="menu2"><a class="do_not_animate" href="#tab_page_9">Layout & Design</a></li><li class="menu2"><a class="do_not_animate" href="#tab_page_10">Lamination & Mounting</a></li><li class="menu2"><a class="do_not_animate" href="#tab_page_11">UV Flatbed Printing</a></li><li class="menu2"><a class="do_not_animate" href="#tab_page_12"/></li><li class="menu2"><a class="do_not_animate" href="#tab_page_13"/></li></ul></div><div id="tab_page_1" style=""><div class="content"><div class="content tab_1_1"><div class="subnav_content" id="commercial"> <a href="/pages/digital_printing">Digital Printing</a>  <a href="/pages/digital_printing">Offset printing</a> <br/>
+<br/>
+<a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/1-TalladegaBrochures.jpg"><img height="86" width="130" border="1" align="top" src="/themes/ansuz_theme_birmingham_color_graphics/images/1-TalladegaBrochures_thumbnail.png" alt=""/></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/HunterTrees2.jpg"><img height="88" width="125" border="1" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/HunterTrees2TH.jpg"/></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/2-Pyramid3Side72dpi.jpeg"><img height="96" width="125" border="1" align="top" src="/themes/ansuz_theme_birmingham_color_graphics/images/2-Pyramid3Side72dpiTH.jpeg" alt=""/></a></div>
+<div class="subnav_content"><font size="2">Click on an image to enlarge</font></div></div></div></div><div id="tab_page_2" style="display: none;"><div class="content"><div class="content tab_1_2"><div id="large_format_printing" class="subnav_content"> <a href="/pages/large_format">Banners and Large Format Printing</a> <br/>
+<br/>
+<a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/MissII3.jpg"><img height="100" width="150" border="1" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/MissII3TH.jpg"/></a>  <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/GeorgeForeman.jpg"><img height="160" width="130" border="1" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/GeorgeForemanTH.jpg"/></a> </div>
+<div class="subnav_content"><font size="2">Click on an image to enlarge</font></div></div></div></div><div id="tab_page_3" style="display: none;"><div class="content"><div class="content tab_1_3"><div class="subnav_content" id="vehicle_graphics"> <a href="/pages/vehicle_graphics">Vehicle Graphics</a><br/><br/>
+<a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/2-GoldenFlake.JPG"><img height="89" width="150" border="1" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/TH2-GoldenFlake.JPG"/></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/IMG_0378.jpg"><img height="93" width="140" border="1" align="top" src="/themes/ansuz_theme_birmingham_color_graphics/images/IMG_0378_thumbnail.png" alt=""/></a> <br/>
+</div>
+<div class="subnav_content"><font size="2">Click on an image to enlarge</font></div></div></div></div><div id="tab_page_4" style="display: none;"><div class="content"><div class="content tab_1_4"><div class="subnav_content" id="display_graphics"> <a href="/pages/display_graphics">POP Display Graphics and Signs</a> <br/>
+<br/>
+<a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/POP1.jpg"><img height="93" width="140" border="1" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/POP1_thumbnail.png"/></a>  <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/POP2.jpg"><img height="158" width="110" border="1" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/POP2_thumbnail.png"/></a>  <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/Sign1.jpg"><img height="93" width="140" border="1" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/Sign1_thumbnail.png"/></a> </div>
+<div class="subnav_content"><font size="2">Click on an image to enlarge</font></div></div></div></div><div id="tab_page_5" style="display: none;"><div class="content"><div class="content tab_1_5"><div class="subnav_content" id="art_prints_and_framing"> <a href="/pages/reproductions">Giclee Reproductions   Decor Printing    Limited Edition Art Prints</a> <br/>
+<a href="/pages/reproductions">Digital Printing   Mounting & Framing</a><br/>
+<br/>
+<a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/WallPort2.jpg"><img height="160" width="121" border="0" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/wallPort2_tinyTH.png"/></a> <a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/wallPort1.jpg"><img height="160" width="126" border="0" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/WallPort1_tinyTH.png"/></a>     </div>
+<div class="subnav_content"><font size="2">Click on an image to enlarge</font></div></div></div></div><div id="tab_page_6" style="display: none;"><div class="content"><div class="content tab_1_6"><div id="tshirts_and_textiles" class="subnav_content"> <a href="/pages/tshirts_and_textiles">T-Shirts and Textiles</a> <br/><br/>
+<a href="/themes/ansuz_theme_birmingham_color_graphics/images/Confederate.jpg" target="_blank"><img height="105" width="150" border="1" src="/themes/ansuz_theme_birmingham_color_graphics/images/ConfederateTH.jpg" alt=""/></a> <a href="/themes/ansuz_theme_birmingham_color_graphics/images/cropedWell.jpg" target="_blank"><img height="105" width="150" border="1" src="/themes/ansuz_theme_birmingham_color_graphics/images/cropedWellTH.jpg" alt=""/></a>    </div>
+<div class="subnav_content"><font size="2">Click on an image to enlarge</font></div></div></div></div><div id="tab_page_7" style="display: none;"><div class="content"><div class="content tab_1_7"><div class="subnav_content"><a href="/pages/digital_printing_scanning">Digital Photography/Scanning</a> <br/><br/>
+<a target="_blank" href="/themes/ansuz_theme_birmingham_color_graphics/images/6-Jeannie.jpg"><img height="180" width="120" border="1" src="/themes/ansuz_theme_birmingham_color_graphics/images/6-JeannieTH.jpg" alt=""/></a></div>
+<div class="subnav_content"><font size="2">Click on an image to enlarge</font></div></div></div></div><div id="tab_page_8" style="display: none;"><div class="content"><div class="content tab_1_8"><div class="subnav_content"><a href="/pages/labels">Labels</a></div></div></div></div><div id="tab_page_9" style="display: none;"><div class="content"><div class="content tab_1_9"><div class="subnav_content"><a href="/pages/layout_and_design">Layout & Design</a><br/><br/>
+<a href="/themes/ansuz_theme_birmingham_color_graphics/images/2ndFF4Poster.jpg" target="_blank"><img height="183" width="125" border="1" src="/themes/ansuz_theme_birmingham_color_graphics/images/2ndFF4Poster_thumbnail.png" alt=""/></a> <a href="/themes/ansuz_theme_birmingham_color_graphics/images/1-TalladegaBrochures.jpg" target="_blank"><img height="100" width="150" border="1" align="top" src="/themes/ansuz_theme_birmingham_color_graphics/images/1-TalladegaBrochures_thumbnail.png" alt=""/></a>   <a href="/themes/ansuz_theme_birmingham_color_graphics/images/
+AprilMay2008.jpg" target="_blank"><img height="142" width="110" border="1" align="top" src="/themes/ansuz_theme_birmingham_color_graphics/images/AprilMay2008_thumbnail.png" alt=""/></a> </div>
+<div class="subnav_content"><font size="2">Click on an image to enlarge</font></div></div></div></div><div id="tab_page_10" style="display: none;"><div class="content"><div class="content tab_1_10"><div class="subnav_content"><a href="/pages/laminating_and_mounting">Lamination & Mounting</a> <br/><br/>
+<a href="/themes/ansuz_theme_birmingham_color_graphics/images/Vulcan.jpg" target="_blank"><img height="183" width="121" border="1" src="/themes/ansuz_theme_birmingham_color_graphics/images/Vulcan_thumbnail.png" alt=""/>  </a><a href="/themes/ansuz_theme_birmingham_color_graphics/images/GeorgeForeman.jpg" target="_blank"><img height="160" width="130" border="1" align="top" src="/themes/ansuz_theme_birmingham_color_graphics/images/GeorgeForemanTH.jpg" alt=""/></a>  </div>
+<div class="subnav_content"><font size="2">Click on an image to enlarge</font></div></div></div></div><div id="tab_page_11" style="display: none;"><div class="content"><div class="content tab_1_11"><div id="commercial" class="subnav_content"> <a href="/pages/uv_flatbed_printing">UV Flatbed Printing</a> <br/>
+<br/>
+<a href="/pages/uv_flatbed_printing"><img height="86" width="130" border="1" align="top" alt="" src="/themes/ansuz_theme_birmingham_color_graphics/images/uv-printer.png"/></a> </div>
+<div class="subnav_content"><font size="2">Click on the image to view a video</font></div></div></div></div><div id="tab_page_12" style="display: none;"><div class="content"/></div><div id="tab_page_13" style="display: none;"><div class="content"/></div><script type="text/javascript">
+//<![CDATA[
+  var tg1 = new Control.Tabs('tab_group_1');
+
+//]]>
+</script><div class="clear"/></div><div class="clear"/></div>
+
